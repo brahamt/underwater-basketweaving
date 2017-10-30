@@ -1,2 +1,4 @@
 Gradle/build/*
 Gradle/.gradle/*
+SpBoot-rest-service/build/*
+SpBoot-rest-service/.gradle/*
